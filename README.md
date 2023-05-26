@@ -1,4 +1,4 @@
-# ReactMod3-tp1-ej2
+# ReactMod3-tp1-ej3
 En este repositorio se encuentra el Ejercicio 3 del Trabajo Practico Numero 1 del Modulo 3 del curso de FullStack - RollingCode
 
 # Instrucciones de uso
